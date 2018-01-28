@@ -1,5 +1,5 @@
 __author__ = 'Dinesh'
-
+''' FIle Filter. Day represents the day name  '''
 
 for day in range(1, 4):
     read_file_path = 'C:\\Users\\Dinesh\\Desktop\\Files\\bmcl0'+ str(day).zfill(2)+'-2008-01-' + str(day).zfill(2)+'.Std';
