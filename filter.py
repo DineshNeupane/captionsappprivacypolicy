@@ -1,5 +1,5 @@
 __author__ = 'Dinesh'
-''' FIle Filter. Day represents the day name  '''
+''' gps data filtering using day name  '''
 
 for day in range(1, 4):
     read_file_path = 'C:\\Users\\Dinesh\\Desktop\\Files\\bmcl0'+ str(day).zfill(2)+'-2008-01-' + str(day).zfill(2)+'.Std';
@@ -9,3 +9,4 @@ for day in range(1, 4):
         lines = f.readlines()
         for x in range(0, 1440, 60):
             new_file.write(lines[x])
+            
