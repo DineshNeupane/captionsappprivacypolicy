@@ -11,3 +11,4 @@ for x in range(1, 366):
                 lines = f.readlines()
                 for x in range(0, 1440, 60):
                     new_file.write(lines[x])
+                new_file.write("\n")
