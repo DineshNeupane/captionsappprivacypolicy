@@ -6,4 +6,6 @@ Sanghiya Nepal: https://dineshneupane.github.io/captionsappprivacypolicy/Sanghiy
 
 Muluki Ain: https://dineshneupane.github.io/captionsappprivacypolicy/MulukiAinPrivacyPolicy/
 
+Fancy Fonts: https://dineshneupane.github.io/captionsappprivacypolicy/FancyFontsPP/
+
 
