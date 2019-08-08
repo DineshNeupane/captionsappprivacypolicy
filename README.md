@@ -8,4 +8,6 @@ Muluki Ain: https://dineshneupane.github.io/captionsappprivacypolicy/MulukiAinPr
 
 Fancy Fonts: https://dineshneupane.github.io/captionsappprivacypolicy/FancyFontsPP/
 
+More Likes: https://dineshneupane.github.io/captionsappprivacypolicy/morelikesprivacypolicy/
+
 
