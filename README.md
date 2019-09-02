@@ -10,5 +10,5 @@ Fancy Fonts: https://dineshneupane.github.io/captionsappprivacypolicy/FancyFonts
 
 More Likes: https://dineshneupane.github.io/captionsappprivacypolicy/morelikesprivacypolicy/
 
-FbfPortal:  https://dineshneupane.github.io/captionsappprivacypolicy/FBFportal/
+FbfPortal:  https://dineshneupane.github.io/captionsappprivacypolicy/FBFPortal/
 
