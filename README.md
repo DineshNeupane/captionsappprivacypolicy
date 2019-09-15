@@ -12,3 +12,5 @@ More Likes: https://dineshneupane.github.io/captionsappprivacypolicy/morelikespr
 
 FbfPortal:  https://dineshneupane.github.io/captionsappprivacypolicy/FBFPortal/
 
+Comment App: https://dineshneupane.github.io/captionsappprivacypolicy/CommentsAppPP/
+
